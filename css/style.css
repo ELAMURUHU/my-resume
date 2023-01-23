@@ -1,0 +1,15 @@
+.center{
+	text-align:center;
+	color:red;
+}
+p{
+	color:blue;
+}
+textarea{
+	background-color:orange;
+}
+body{
+	background-image:url("../image/water.jpg");/*to set background image */
+    background-repeat:no-repeat;	
+	background-position:right top;
+}}
